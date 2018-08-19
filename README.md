@@ -9,7 +9,7 @@
 - 序列化与反序列化
 - 面向接口
 - 接口与抽象类
-- [hashmap](./src/doc/java基础/hashmap.md)与[hashtable](./src/doc/java基础/hashtable.md)
+- [hashmap](src/doc/Java基础/hashmap.md)与[hashtable](src/doc/Java基础/hashtable.md)
 - Error和Exception 的区别
 - 泛型
 - Lock 和 Synchronized 的区别
@@ -29,7 +29,7 @@
   - SSO
 
 ## 数据库SQL
-  - [SQL函数](./src/doc/sql基础/sql_fn.md)
+  - [SQL函数](src/doc/Sql基础/sql_fn.md)
 
 ## 必备算法
 
