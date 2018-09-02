@@ -38,13 +38,13 @@
     - > 目前了解如下，使用函数目的是返回处理过的结果或结果集，所以不能使用print函数，也不能调用自定义的存储过程，因为自定义的存储过程除了处理数据它可能还会有其它的输出。
   - SQLSERVER2008下，不能使用CONCAT函数进行字符串的拼接
      
-     来自StackOverFlow的解释（https://stackoverflow.com/questions/10550307/how-do-i-use-the-concat-function-in-sql-server-2008-r2）
+    -   来自StackOverFlow的解释（https://stackoverflow.com/questions/10550307/how-do-i-use-the-concat-function-in-sql-server-2008-r2）
      
-     ![](../img/CONCAT.jpg)
+    -   ![](../img/CONCAT.jpg)
     
      > 上面的意思是，2008之前的版本是不支持这个函数的。SQLSERVER 2012新增了两个字符串函数CONCAT和FORMAT。
      
-     CONCAT用法
+   - CONCAT用法
     ```sql
     -- CONCAT 函数最多可以连接255个字符变量，当调用这个函数的时候需要至少接收两个参数
     -- 参数类型不一定是字符串类型，也可以是可以隐式转换为字符串的类型比如int ，float等类型。只要符合sql 2012的能隐式转换为字符串的规则即可，
