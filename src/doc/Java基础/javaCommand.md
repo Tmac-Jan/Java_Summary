@@ -1,0 +1,13 @@
+> ## java.exe;javac.exe.javaw.exe;javadoc.exe 的区别
+- ### java.exe
+  - 运行java程序
+- ### javac.exe
+  - 编译的，生成.class文件  
+- ### javaw.exe
+  - 大多用来运行gui程序
+- ### javadoc
+  - javadoc是sun公司提供的一个技术,它从程序源代码中抽取类、方法、成员等注释形成一个和源代码配套的api帮助文档。也就是说,只要在编写程序时以一套特定的标签作注释,在程序编写完成后,通过javadoc就可以同时形式程序的开发文档了。
+  - eclipse下如何生成javadoc
+    - [eclipse下如何生成javadoc](https://blog.csdn.net/qq_18505715/article/details/75332098)
+  - IDEA下如何生成javadoc  
+    - [IDEA下生成javadoc](https://www.cnblogs.com/xiaoming0601/p/6657136.html)
