@@ -50,7 +50,7 @@
 	 
       ![](adSearchInPC.png)
 	  
-     - ####下载Apache Dircetory Studio等相关ladp链接工具，使用相关域管理账户登录
+     - #### 下载Apache Dircetory Studio等相关ladp链接工具，使用相关域管理账户登录
 	 
       ![](adApacheConn.png)
       ![](adApache.png) 
