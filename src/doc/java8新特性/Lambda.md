@@ -120,9 +120,10 @@
     .collect(Collectors.toList());
     
   ```
-    - #### stream(内容摘自([java8之stream](https://www.cnblogs.com/andywithu/p/7404101.html)))
+  
+  - #### stream(内容摘自([java8之stream](https://www.cnblogs.com/andywithu/p/7404101.html)))
       
-      - #### stream总纲
+    - #### stream总纲
       
         ![streamPhoto](stream.png)
         
